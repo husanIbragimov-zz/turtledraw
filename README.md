@@ -9,4 +9,6 @@ Project made by turtle
 
 <h2>Anticyclone</h2>
 
+<br>
+
 <img alt="Screenshot from 2022-11-23 00-03-01" height="500" src="./images/Screenshot%20from%202022-11-25%2018-36-04.png" width="500"/>
