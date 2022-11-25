@@ -1,4 +1,4 @@
-# Tree
+# Animation
 Project made by turtle
 
 <h2>Tree</h2>
