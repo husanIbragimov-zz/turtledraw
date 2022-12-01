@@ -5,10 +5,12 @@ white = "white"
 orange = "orange"
 num = 15
 t = turtle.Turtle()
-turtle.bgcolor('black')
+turtle.bgcolor(bg)
 
 # turtle.left()
+turtle.pensize(5)
 turtle.forward(-250)
+
 
 turtle.color(orange)
 turtle.forward(50)
@@ -149,5 +151,16 @@ turtle.forward(55.90)
 turtle.right(135)
 turtle.forward(100)
 turtle.left(90)
+
+
+# turtle.left(-90)
+turtle.penup()
+turtle.right(90)
+turtle.forward(30)
+turtle.pendown()
+turtle.color(orange)
+turtle.left(-90)
+turtle.backward(10)
+turtle.forward(500)
 
 turtle.done()
