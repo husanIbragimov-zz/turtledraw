@@ -21,9 +21,15 @@ Project made by turtle
 
 <br>
 
-<h2><span style="color: #ff9000">I</span>SYSTEM</h2>
+<h2><span style="color: #ff9000">I</span>system</h2>
 
 <br>
 
-<img class="img" src="images/Screenshot%20from%202022-11-30%2019-33-30.png" alt="circle" height="500" width="500">
+<img class="img" src="images/Screenshot%20from%202022-12-01%2010-47-55.png" alt="isystem" height="500" width="500">
+
+<br>
+
+<h2>Virus</h2>
+
+<img class="img" src="images/Screenshot%20from%202022-12-15%2014-27-31.png" alt="virus" height="500" width="500">
 
