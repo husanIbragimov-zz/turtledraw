@@ -31,5 +31,5 @@ Project made by turtle
 
 <h2>Virus</h2>
 
-<img class="img" src="images/Screenshot%20from%202022-12-15%2014-27-31.png" alt="virus" height="700" width="1200">
+<img class="img" src="images/Screenshot%20from%202022-12-15%2014-27-31.png" alt="virus" height="500" width="500">
 
